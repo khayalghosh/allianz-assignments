@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-jose[cryptography]
+azure-identity
+azure-mgmt-network
+azure-mgmt-resource
+azure-data-tables
