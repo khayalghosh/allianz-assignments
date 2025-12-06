@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic    # optional if you want migrations
+psycopg2-binary  # for Postgres; if using sqlite, it's not required
+python-jose[cryptography]
+requests
+azure-identity
+azure-mgmt-network
+python-dotenv
